@@ -3,3 +3,5 @@ Malaysia
 US
 Mexico
 Canada
+Spain
+Portugal
